@@ -8,8 +8,7 @@ The React JS Web App can function on Web clients, Android, IOS, Windows and MacO
   •	[React Native:](https://github.com/Seaside-Development/Android-ios-store) 
 # Can check out some of the other Seaside Development apps here
   •	[link:](https://github.com/Seaside-Development)
-# Can check out our live website and download the PWA, check the How to install PWA.png for
-any guidance 
+# Can check out our live website and download the PWA, check the How to install PWA.png for any guidance on installation
   •	[link:](http://seaside-live.herokuapp.com/)
 
 The seaside team is a truly capable team that caters to the demands of a growing market.
