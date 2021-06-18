@@ -22,11 +22,11 @@ Kind Regards,
 Seaside Team
 
 ## FOLDER STRUCTURE
-•	__Pictures & Video__ - contains images used in the presentation and of the app
-•	__Presentation PowerPoints__ - Contains the PowerPoint for seaside
-•	__Recording__ - Recordings of the app in use
-•	__Reports__ - Reports of the Web and Android/IOS Apps
-•	__Seaside PWA Profile__ - PWA report by google lighthouse
-•	__How_to_install_PWA.png__ - Quick how-to guide to install the react PWA on your smartphone
-•	__qrcode_seaside-live.herokuapp.com.png__ - Qr code to access the site
-•	__ReactNative-Android.apk__ - Android version of the react native app, cannot sideload for ios
+1. __Pictures & Video__ - contains images used in the presentation and of the app
+2. __Presentation PowerPoints__ - Contains the PowerPoint for seaside
+3. __Recording__ - Recordings of the app in use
+4. __Reports__ - Reports of the Web and Android/IOS Apps
+5. __Seaside PWA Profile__ - PWA report by google lighthouse
+6. __How_to_install_PWA.png__ - Quick how-to guide to install the react PWA on your smartphone
+7. __qrcode_seaside-live.herokuapp.com.png__ - Qr code to access the site
+8. __ReactNative-Android.apk__ - Android version of the react native app, cannot sideload for ios
