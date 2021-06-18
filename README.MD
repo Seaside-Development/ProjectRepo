@@ -1,5 +1,11 @@
 # 你好, HELLO AND WELCOME
 
+the team consists of
+Nathan Brathwaite,
+Zachary Aird,
+Khareen Proverbs,
+Samuel Lowe,
+
 The Project is divided into two apps. 
 A.	1 React Js,
 B.	1 React Native,
