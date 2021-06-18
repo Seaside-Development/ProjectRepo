@@ -11,8 +11,8 @@ of generally native feautures. The apps serve to show the capabilites of JavaScr
 ecommerce on. I hope you do enjoy the apps
 
 the github links are below
-*React JS: https://github.com/Seaside-Development/WebApp-store 
-*React Native: https://github.com/Seaside-Development/Android-ios-store
+1. *React JS: https://github.com/Seaside-Development/WebApp-store 
+2. *React Native: https://github.com/Seaside-Development/Android-ios-store
 
 **Can check out some of other Seaside Development apps here
 	https://github.com/Seaside-Development
